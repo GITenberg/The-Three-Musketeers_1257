@@ -1,22 +1,21 @@
                           THE THREE MUSKETEERS
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: The Three Musketeers
-
 Author: Alexandre Dumas, Pere
-
 Release Date: March 01, 1998 [EBook #1257]
-
-Last Updated: 2012-02-25
-
+Reposted: November 27, 2016 [corrections made]
 Language: English
-
 Character set encoding: US-ASCII
 
 
@@ -27,7 +26,8 @@ ALEXANDRE DUMAS, PERE ***
 
 
 Produced by John P. Roberts III, Roger Labbe, Scott David Gray, Sue
-Asscher, Anita Martin and David Widger.
+Asscher, Anita Martin, David Muller and David Widger.
+
 
                          *THE THREE MUSKETEERS*
 
@@ -45,7 +45,6 @@ Asscher, Anita Martin and David Widger.
 CONTENTS
 
 
-    CONTENTS
     AUTHOR'S PREFACE
     1 THE THREE PRESENTS OF D'ARTAGNAN THE ELDER
     2 THE ANTECHAMBER OF M. DE TREVILLE
@@ -54,6 +53,7 @@ CONTENTS
     OF ARAMIS
     5 THE KING'S MUSKETEERS AND THE CARDINAL'S GUARDS
     6 HIS MAJESTY KING LOUIS XIII
+    7 THE INTERIOR* OF THE MUSKETEERS
     8 CONCERNING A COURT INTRIGUE
     9 D'ARTAGNAN SHOWS HIMSELF
     10 A MOUSETRAP IN THE SEVENTEENTH CENTURY
@@ -81,6 +81,7 @@ CONTENTS
     31 ENGLISH AND FRENCH
     32 A PROCURATOR'S DINNER
     33 SOUBRETTE AND MISTRESS
+    34 IN WHICH THE EQUIPMENT OF ARAMIS AND PORTHOS IS TREATED OF
     35 A GASCON A MATCH FOR CUPID
     36 DREAM OF VENGEANCE
     37 MILADY'S SECRET
@@ -105,6 +106,7 @@ CONTENTS
     56 CAPTIVITY: THE FIFTH DAY
     57 MEANS FOR CLASSICAL TRAGEDY
     58 ESCAPE
+    59 WHAT TOOK PLACE AT PORTSMOUTH AUGUST 23, 1628
     60 IN FRANCE
     61 THE CARMELITE CONVENT AT BETHUNE
     62 TWO VARIETIES OF DEMONS
@@ -160,7 +162,7 @@ borrowed names had themselves chosen them on the day in which, from
 caprice, discontent, or want of fortune, they had donned the simple
 Musketeer's uniform.
 
-From the moment we had no rest till we could find some trace in
+From that moment we had no rest till we could find some trace in
 contemporary works of these extraordinary names which had so strongly
 awakened our curiosity.
 
@@ -228,7 +230,7 @@ king. Then, in addition to these concealed or public, secret or open
 wars, there were robbers, mendicants, Huguenots, wolves, and scoundrels,
 who made war upon everybody. The citizens always took up arms readily
 against thieves, wolves or scoundrels, often against nobles or
-Huguenots, sometimes against the king, but never against cardinal or
+Huguenots, sometimes against the king, but never against the cardinal or
 Spain. It resulted, then, from this habit that on the said first Monday
 of April, 1625, the citizens, on hearing the clamor, and seeing neither
 the red-and-yellow standard nor the livery of the Duc de Richelieu,
@@ -360,7 +362,7 @@ Miller, without anyone--host, waiter, or hostler--coming to hold his
 stirrup or take his horse, d'Artagnan spied, though an open window on
 the ground floor, a gentleman, well-made and of good carriage, although
 of rather a stern countenance, talking with two persons who appeared to
-listen to him with respect. d'Artagnan fancied quite naturally,
+listen to him with respect. D'Artagnan fancied quite naturally,
 according to his custom, that he must be the object of their
 conversation, and listened. This time d'Artagnan was only in part
 mistaken; he himself was not in question, but his horse was. The
@@ -379,7 +381,7 @@ nose, and a black and well-shaped mustache. He was dressed in a doublet
 and hose of a violet color, with aiguillettes of the same color, without
 any other ornaments than the customary slashes, through which the shirt
 appeared. This doublet and hose, though new, were creased, like
-traveling clothes for a long time packed in a portmanteau. d'Artagnan
+traveling clothes for a long time packed in a portmanteau. D'Artagnan
 made all these remarks with the rapidity of a most minute observer, and
 doubtless from an instinctive feeling that this stranger was destined to
 have a great influence over his future life.
@@ -388,7 +390,7 @@ Now, as at the moment in which d'Artagnan fixed his eyes upon the
 gentleman in the violet doublet, the gentleman made one of his most
 knowing and profound remarks respecting the Bearnese pony, his two
 auditors laughed even louder than before, and he himself, though
-contrary to his custom, allowed a pale smile (if I may allowed to use
+contrary to his custom, allowed a pale smile (if I may be allowed to use
 such an expression) to stray over his countenance. This time there could
 be no doubt; d'Artagnan was really insulted. Full, then, of this
 conviction, he pulled his cap down over his eyes, and endeavoring to
@@ -427,7 +429,7 @@ scabbard.
 "This horse is decidedly, or rather has been in his youth, a buttercup,"
 resumed the stranger, continuing the remarks he had begun, and
 addressing himself to his auditors at the window, without paying the
-least attention to the exasperation of d'Artagnan, who, however placed
+least attention to the exasperation of d'Artagnan, who, however, placed
 himself between him and them. "It is a color very well known in botany,
 but till the present time very rare among horses."
 
@@ -591,9 +593,10 @@ the stranger. "She will soon pass; she is already late. I had better get
 on horseback, and go and meet her. I should like, however, to know what
 this letter addressed to Treville contains."
 
-We are well aware that this term, milady, is only properly used when
-followed by a family name. But we find it thus in the manuscript, and we
-do not choose to take upon ourselves to alter it.
+    _*We are well aware that this term, milady, is only properly
+            used when followed by a family name. But we find it thus
+            in the manuscript, and we do not choose to take upon
+            ourselves to alter it._
 
 And the stranger, muttering to himself, directed his steps toward the
 kitchen.
@@ -602,8 +605,8 @@ In the meantime, the host, who entertained no doubt that it was the
 presence of the young man that drove the stranger from his hostelry,
 re-ascended to his wife's chamber, and found d'Artagnan just recovering
 his senses. Giving him to understand that the police would deal with him
-pretty severely for having sought a quarrel with a great lord--for the
-opinion of the host the stranger could be nothing less than a great
+pretty severely for having sought a quarrel with a great lord--for in
+the opinion of the host the stranger could be nothing less than a great
 lord--he insisted that notwithstanding his weakness d'Artagnan should
 get up and depart as quickly as possible. D'Artagnan, half stupefied,
 without his doublet, and with his head bound up in a linen cloth, arose
@@ -654,10 +657,10 @@ time he whom he ought to chastise will not escape him as before."
 "the least delay may ruin everything."
 
 "You are right," cried the gentleman; "begone then, on your part, and I
-will depart as quickly on mine." And bowing to the lady, sprang into his
-saddle, while her coachman applied his whip vigorously to his horses.
-The two interlocutors thus separated, taking opposite directions, at
-full gallop.
+will depart as quickly on mine." And bowing to the lady, he sprang into
+his saddle, while her coachman applied his whip vigorously to his
+horses. The two interlocutors thus separated, taking opposite
+directions, at full gallop.
 
 "Pay him, booby!" cried the stranger to his servant, without checking
 the speed of his horse; and the man, after throwing two or three silver
@@ -703,8 +706,8 @@ But when the time came to pay for his rosemary, this oil, and the wine,
 the only expense the master had incurred, as he had preserved a strict
 abstinence--while on the contrary, the yellow horse, by the account of
 the hostler at least, had eaten three times as much as a horse of his
-size could reasonably supposed to have done--d'Artagnan found nothing in
-his pocket but his little old velvet purse with the eleven crowns it
+size could reasonably be supposed to have done--d'Artagnan found nothing
+in his pocket but his little old velvet purse with the eleven crowns it
 contained; for as to the letter addressed to M. de Treville, it had
 disappeared.
 
@@ -741,7 +744,7 @@ this letter?"
 
 "Yes, where is this letter?" cried d'Artagnan. "In the first place, I
 warn you that that letter is for Monsieur de Treville, and it must be
-found, he will know how to find it."
+found, or if it is not found, he will know how to find it."
 
 His threat completed the intimidation of the host. After the king and
 the cardinal, M. de Treville was the man whose name was perhaps most
@@ -792,7 +795,7 @@ wager he has stolen it."
 
 "Do you think so?" answered d'Artagnan, but little convinced, as he knew
 better than anyone else how entirely personal the value of this letter
-was, and was nothing in it likely to tempt cupidity. The fact was that
+was, and saw nothing in it likely to tempt cupidity. The fact was that
 none of his servants, none of the travelers present, could have gained
 anything by being possessed of this paper.
 
@@ -995,13 +998,13 @@ way amid these turbulent and conflicting waves, it was necessary to be
 an officer, a great noble, or a pretty woman.
 
 It was, then, into the midst of this tumult and disorder that our young
-man advanced with a beating heat, ranging his long rapier up his lanky
+man advanced with a beating heart, ranging his long rapier up his lanky
 leg, and keeping one hand on the edge of his cap, with that half-smile
-of the embarrassed a provincial who wishes to put on a good face. When
-he had passed one group he began to breathe more freely; but he could
-not help observing that they turned round to look at him, and for the
-first time in his life d'Artagnan, who had till that day entertained a
-very good opinion of himself, felt ridiculous.
+of the embarrassed provincial who wishes to put on a good face. When he
+had passed one group he began to breathe more freely; but he could not
+help observing that they turned round to look at him, and for the first
+time in his life d'Artagnan, who had till that day entertained a very
+good opinion of himself, felt ridiculous.
 
 Arrived at the staircase, it was still worse. There were four Musketeers
 on the bottom steps, amusing themselves with the following exercise,
@@ -1043,22 +1046,22 @@ On the landing they were no longer fighting, but amused themselves with
 stories about women, and in the antechamber, with stories about the
 court. On the landing d'Artagnan blushed; in the antechamber he
 trembled. His warm and fickle imagination, which in Gascony had rendered
-formidable to young chambermaids, and even sometimes their mistresses,
-had never dreamed, even in moments of delirium, of half the amorous
-wonders or a quarter of the feats of gallantry which were here set forth
-in connection with names the best known and with details the least
-concealed. But if his morals were shocked on the landing, his respect
-for the cardinal was scandalized in the antechamber. There, to his great
-astonishment, d'Artagnan heard the policy which made all Europe tremble
-criticized aloud and openly, as well as the private life of the
-cardinal, which so many great nobles had been punished for trying to pry
-into. That great man who was so revered by d'Artagnan the elder served
-as an object of ridicule to the Musketeers of Treville, who cracked
-their jokes upon his bandy legs and his crooked back. Some sang ballads
-about Mme. d'Aguillon, his mistress, and Mme. Cambalet, his niece; while
-others formed parties and plans to annoy the pages and guards of the
-cardinal duke--all things which appeared to d'Artagnan monstrous
-impossibilities.
+him formidable to young chambermaids, and even sometimes their
+mistresses, had never dreamed, even in moments of delirium, of half the
+amorous wonders or a quarter of the feats of gallantry which were here
+set forth in connection with names the best known and with details the
+least concealed. But if his morals were shocked on the landing, his
+respect for the cardinal was scandalized in the antechamber. There, to
+his great astonishment, d'Artagnan heard the policy which made all
+Europe tremble criticized aloud and openly, as well as the private life
+of the cardinal, which so many great nobles had been punished for trying
+to pry into. That great man who was so revered by d'Artagnan the elder
+served as an object of ridicule to the Musketeers of Treville, who
+cracked their jokes upon his bandy legs and his crooked back. Some sang
+ballads about Mme. d'Aguillon, his mistress, and Mme. Cambalet, his
+niece; while others formed parties and plans to annoy the pages and
+guards of the cardinal duke--all things which appeared to d'Artagnan
+monstrous impossibilities.
 
 Nevertheless, when the name of the king was now and then uttered
 unthinkingly amid all these cardinal jests, a sort of gag seemed to
@@ -1174,7 +1177,7 @@ Let us say no more about it."
 
 "Say no more about it! PESTE! You come to your conclusions quickly.
 What! The cardinal sets a spy upon a gentleman, has his letters stolen
-from him by means of a traitor, a brigand, a rascal-has, with the help
+from him by means of a traitor, a brigand, a rascal--has, with the help
 of this spy and thanks to this correspondence, Chalais's throat cut,
 under the stupid pretext that he wanted to kill the king and marry
 Monsieur to the queen! Nobody knew a word of this enigma. You unraveled
@@ -1204,7 +1207,7 @@ theology for that purpose."
 "He will be one, as he says," cried Porthos; "he will be one, sooner or
 later."
 
-"Sooner." said Aramis.
+"Sooner," said Aramis.
 
 "He only waits for one thing to determine him to resume his cassock,
 which hangs behind his uniform," said another Musketeer.
@@ -1316,9 +1319,9 @@ the Guards of Monsieur the Cardinal."
 "Because he plainly perceives that his piquette* stands in need of being
 enlivened by a mixture of good wine."
 
-A watered liquor, made from the second pressing of the grape.
+    _*A watered liquor, made from the second pressing of the grape._
 
-The two Musketeers reddened to the whites of their eyes. d'Artagnan did
+The two Musketeers reddened to the whites of their eyes. D'Artagnan did
 not know where he was, and wished himself a hundred feet underground.
 
 "Yes, yes," continued M. de Treville, growing warmer as he spoke, "and
@@ -1487,7 +1490,7 @@ tenacity of a Gascon remained in his place.
 When all had gone out and the door was closed, M. de Treville, on
 turning round, found himself alone with the young man. The event which
 had occurred had in some degree broken the thread of his ideas. He
-inquired what was the will of his persevering visitor. d'Artagnan then
+inquired what was the will of his persevering visitor. D'Artagnan then
 repeated his name, and in an instant recovering all his remembrances of
 the present and the past, M. de Treville grasped the situation.
 
@@ -1593,7 +1596,7 @@ this gentlemen a slight scar on his cheek?"
 
 "Yes."
 
-"Of complexion and brown hair?"
+"Of pale complexion and brown hair?"
 
 "Yes, yes, that is he; how is it, sir, that you are acquainted with this
 man? If I ever find him again--and I will find him, I swear, were it in
@@ -1639,8 +1642,8 @@ an emissary of the cardinal, whom the cardinal sought to introduce into
 Treville's house, to place near him, to win his confidence, and
 afterward to ruin him as had been done in a thousand other instances? He
 fixed his eyes upon d'Artagnan even more earnestly than before. He was
-moderately reassured however, by the aspect of that countenance, full of
-astute intelligence and affected humility. "I know he is a Gascon,"
+moderately reassured, however, by the aspect of that countenance, full
+of astute intelligence and affected humility. "I know he is a Gascon,"
 reflected he, "but he may be one for the cardinal as well as for me. Let
 us try him."
 
@@ -1692,11 +1695,12 @@ esteem me the less for it, and that is my object beyond all others."
 M de Treville was surprised to the greatest degree. So much penetration,
 so much frankness, created admiration, but did not entirely remove his
 suspicions. The more this young man was superior to others, the more he
-was to be dreaded if he meant to deceive him; "You are an honest youth;
-but at the present moment I can only do for you that which I just now
-offered. My hotel will be always open to you. Hereafter, being able to
-ask for me at all hours, and consequently to take advantage of all
-opportunities, you will probably obtain that which you desire."
+was to be dreaded if he meant to deceive him. Nevertheless, he pressed
+d'Artagnan's hand, and said to him: "You are an honest youth; but at the
+present moment I can only do for you that which I just now offered. My
+hotel will be always open to you. Hereafter, being able to ask for me at
+all hours, and consequently to take advantage of all opportunities, you
+will probably obtain that which you desire."
 
 "That is to say," replied d'Artagnan, "that you will wait until I have
 proved myself worthy of it. Well, be assured," added he, with the
@@ -1756,8 +1760,8 @@ Scarcely had he descended the first stair, when a hand of iron seized
 him by the belt and stopped him.
 
 "You are in a hurry?" said the Musketeer, as pale as a sheet. "Under
-that pretense you run against me! You say. 'Excuse me,' and you believe
-that is sufficient? Not at all my young man. Do you fancy because you
+that pretense you run against me! You say, 'Excuse me,' and you believe
+that is sufficient? Not at all, my young man. Do you fancy because you
 have heard Monsieur de Treville speak to us a little cavalierly today
 that other people are to treat us as he speaks to us? Undeceive
 yourself, comrade, you are not Monsieur de Treville."
@@ -2018,7 +2022,7 @@ you have not acted in this affair as a gallant man ought."
 
 "What, monsieur!" cried d'Artagnan, "and do you suppose--"
 
-"I suppose, monsieur that you are not a fool, and that you knew very
+"I suppose, monsieur, that you are not a fool, and that you knew very
 well, although coming from Gascony, that people do not tread upon
 handkerchiefs without a reason. What the devil! Paris is not paved with
 cambric!"
@@ -2104,17 +2108,17 @@ or our readers must have already perceived that d'Artagnan was not an
 ordinary man; therefore, while repeating to himself that his death was
 inevitable, he did not make up his mind to die quietly, as one less
 courageous and less restrained might have done in his place. He
-reflected upon the different characters of men he had to fight with, and
-began to view his situation more clearly. He hoped, by means of loyal
-excuses, to make a friend of Athos, whose lordly air and austere bearing
-pleased him much. He flattered himself he should be able to frighten
-Porthos with the adventure of the baldric, which he might, if not killed
-upon the spot, relate to everybody a recital which, well managed, would
-cover Porthos with ridicule. As to the astute Aramis, he did not
-entertain much dread of him; and supposing he should be able to get so
-far, he determined to dispatch him in good style or at least, by hitting
-him in the face, as Caesar recommended his soldiers do to those of
-Pompey, to damage forever the beauty of which he was so proud.
+reflected upon the different characters of those with whom he was going
+to fight, and began to view his situation more clearly. He hoped, by
+means of loyal excuses, to make a friend of Athos, whose lordly air and
+austere bearing pleased him much. He flattered himself he should be able
+to frighten Porthos with the adventure of the baldric, which he might,
+if not killed upon the spot, relate to everybody a recital which, well
+managed, would cover Porthos with ridicule. As to the astute Aramis, he
+did not entertain much dread of him; and supposing he should be able to
+get so far, he determined to dispatch him in good style or at least, by
+hitting him in the face, as Caesar recommended his soldiers do to those
+of Pompey, to damage forever the beauty of which he was so proud.
 
 In addition to this, d'Artagnan possessed that invincible stock of
 resolution which the counsels of his father had implanted in his heart:
@@ -2375,11 +2379,11 @@ he was to take. It was one of those events which decide the life of a
 man; it was a choice between the king and the cardinal--the choice made,
 it must be persisted in. To fight, that was to disobey the law, that was
 to risk his head, that was to make at one blow an enemy of a minister
-more powerful than the king himself. All this young man perceived, and
-yet, to his praise we speak it, he did not hesitate a second. Turning
-towards Athos and his friends, "Gentlemen," said he, "allow me to
-correct your words, if you please. You said you were but three, but it
-appears to me we are four."
+more powerful than the king himself. All this the young man perceived,
+and yet, to his praise we speak it, he did not hesitate a second.
+Turning towards Athos and his friends, "Gentlemen," said he, "allow me
+to correct your words, if you please. You said you were but three, but
+it appears to me we are four."
 
 "But you are not one of us," said Porthos.
 
@@ -2543,7 +2547,7 @@ a cardinalist air.
 Bravery is always respected, even in an enemy. The Musketeers saluted
 Bicarat with their swords, and returned them to their sheaths.
 D'Artagnan did the same. Then, assisted by Bicarat, the only one left
-standing, he bore Jussac, Cahusac, and one of Aramis's adversaries who
+standing, they bore Jussac, Cahusac, and one of Aramis's adversaries who
 was only wounded, under the porch of the convent. The fourth, as we have
 said, was dead. They then rang the bell, and carrying away four swords
 out of five, they took their road, intoxicated with joy, toward the
@@ -2861,7 +2865,7 @@ and as d'Artagnan stood firm, it was his adversary who made the
 retreating step; but d'Artagnan seized the moment at which, in this
 movement, the sword of Bernajoux deviated from the line. He freed his
 weapon, made a lunge, and touched his adversary on the shoulder.
-d'Artagnan immediately made a step backward and raised his sword; but
+D'Artagnan immediately made a step backward and raised his sword; but
 Bernajoux cried out that it was nothing, and rushing blindly upon him,
 absolutely spitted himself upon d'Artagnan's sword. As, however, he did
 not fall, as he did not declare himself conquered, but only broke away
@@ -3028,7 +3032,7 @@ whole of dinner turned upon the two checks that his Eminence's Guardsmen
 had received. Now, as d'Artagnan had been the hero of these two fights,
 it was upon him that all the felicitations fell, which Athos, Porthos,
 and Aramis abandoned to him, not only as good comrades, but as men who
-had so often had their turn that could very well afford him his.
+had so often had their turn that they could very well afford him his.
 
 Toward six o'clock M. de Treville announced that it was time to go to
 the Louvre; but as the hour of audience granted by his Majesty was past,
@@ -3096,7 +3100,7 @@ but one gerfalcon, and he died day before yesterday."
 
 "Indeed, sire, I wholly comprehend your disappointment. The misfortune
 is great; but I think you have still a good number of falcons, sparrow
-hawks, and tiercets."
+hawks, and tiercels."
 
 "And not a man to instruct them. Falconers are declining. I know no one
 but myself who is acquainted with the noble art of venery. After me it
@@ -3190,7 +3194,7 @@ de la Tremouille shall say?"
 
 "Undoubtedly."
 
-"Any you will submit to the reparation he may require?"
+"And you will submit to the reparation he may require?"
 
 "Certainly."
 
@@ -3317,7 +3321,7 @@ yonder of a Gascon look. Come hither, monsieur."
 D'Artagnan, who understood that it was to him this compliment was
 addressed, approached, assuming a most deprecating air.
 
-"Why you told me he was a young man? This is a boy, Treville, a mere
+"Why, you told me he was a young man? This is a boy, Treville, a mere
 boy! Do you mean to say that it was he who bestowed that severe thrust
 at Jussac?"
 
@@ -3351,8 +3355,8 @@ details; how, not having been able to sleep for the joy he felt in the
 expectation of seeing his Majesty, he had gone to his three friends
 three hours before the hour of audience; how they had gone together to
 the tennis court, and how, upon the fear he had manifested lest he
-receive a ball in the face, he had been jeered at by Bernajoux who had
-nearly paid for his jeer with his life and M. de la Tremouille, who had
+receive a ball in the face, he had been jeered at by Bernajoux, who had
+nearly paid for his jeer with his life, and M. de la Tremouille, who had
 nothing to do with the matter, with the loss of his hotel.
 
 "This is all very well," murmured the king, "yes, this is just the
@@ -3403,12 +3407,15 @@ Bernajoux of yours?"
 
 
 
-7 THE INTERIOR OF "THE MUSKETEERS"
+7 THE INTERIOR* OF THE MUSKETEERS
+
 
 When d'Artagnan was out of the Louvre, and consulted his friends upon
 the use he had best make of his share of the forty pistoles, Athos
 advised him to order a good repast at the Pomme-de-Pin, Porthos to
 engage a lackey, and Aramis to provide himself with a suitable mistress.
+
+    _*Domestic affairs, housekeeping_
 
 The repast was carried into effect that very day, and the lackey waited
 at table. The repast had been ordered by Athos, and the lackey furnished
@@ -3442,8 +3449,8 @@ During the five or six years that he had lived in the strictest intimacy
 with his companions, Porthos and Aramis, they could remember having
 often seen him smile, but had never heard him laugh. His words were
 brief and expressive, conveying all that was meant, and no more; no
-embellishments, no embroidery, no arabesques. His conversation a matter
-of fact, without a single romance.
+embellishments, no embroidery, no arabesques. His conversation was a
+matter of fact, without a single romance.
 
 Although Athos was scarcely thirty years old, and was of great personal
 beauty and intelligence of mind, no one knew whether he had ever had a
@@ -3497,9 +3504,10 @@ was suspected of wishing to make Porthos descend from his aristocratic
 habits, Mousqueton made a very good figure when attending on his master.
 
 As for Aramis, of whom we believe we have sufficiently explained the
-character--a character which, like that of his lackey was called Bazin.
-Thanks to the hopes which his master entertained of someday entering
-into orders, he was always clothed in black, as became the servant of a
+character--a character which, like that of his companions, we shall be
+able to follow in its development--his lackey was called Bazin. Thanks
+to the hopes which his master entertained of someday entering into
+orders, he was always clothed in black, as became the servant of a
 churchman. He was a Berrichon, thirty-five or forty years old, mild,
 peaceable, sleek, employing the leisure his master left him in the
 perusal of pious works, providing rigorously for two a dinner of few
@@ -3665,9 +3673,9 @@ wind of adversity began to blow upon the housekeeping of the Rue des
 Fossoyeurs--that is to say, when the forty pistoles of King Louis XIII
 were consumed or nearly so--he commenced complaints which Athos thought
 nauseous, Porthos indecent, and Aramis ridiculous. Athos counseled
-d'Artagnan to dismiss the fellow; Porthos was of opinion that he should
-give him a good thrashing first; and Aramis contended that a master
-should never attend to anything but the civilities paid to him.
+d'Artagnan to dismiss the fellow; Porthos was of the opinion that he
+should give him a good thrashing first; and Aramis contended that a
+master should never attend to anything but the civilities paid to him.
 
 "This is all very easy for you to say," replied d'Artagnan, "for you,
 Athos, who live like a dumb man with Grimaud, who forbid him to speak,
@@ -3677,7 +3685,7 @@ valet, Mousqueton; and for you, Aramis, who, always abstracted by your
 theological studies, inspire your servant, Bazin, a mild, religious man,
 with a profound respect; but for me, who am without any settled means
 and without resources--for me, who am neither a Musketeer nor even a
-Guardsman, what I am to do to inspire either the affection, the terror,
+Guardsman, what am I to do to inspire either the affection, the terror,
 or the respect in Planchet?"
 
 "This is serious," answered the three friends; "it is a family affair.
@@ -3698,7 +3706,7 @@ more about going away.
 
 The life of the four young men had become fraternal. D'Artagnan, who had
 no settled habits of his own, as he came from his province into the
-midst of his world quite new to him, fell easily into the habits of his
+midst of a world quite new to him, fell easily into the habits of his
 friends.
 
 They rose about eight o'clock in the winter, about six in summer, and
@@ -3818,9 +3826,9 @@ dines." And Planchet dined by sleeping.
 
 A man was introduced of simple mien, who had the appearance of a
 tradesman. Planchet, by way of dessert, would have liked to hear the
-conversation; but the citizen declared to d'Artagnan that what he had to
-say being important and confidential, he desired to be left alone with
-him.
+conversation; but the citizen declared to d'Artagnan that, what he had
+to say being important and confidential, he desired to be left alone
+with him.
 
 D'Artagnan dismissed Planchet, and requested his visitor to be seated.
 There was a moment of silence, during which the two men looked at each
@@ -3926,7 +3934,7 @@ fears."
 
 "Truly!"
 
-"Yes. The cardinal, as it appears, pursues he and persecutes her more
+"Yes. The cardinal, as it appears, pursues her and persecutes her more
 than ever. He cannot pardon her the history of the Saraband. You know
 the history of the Saraband?"
 
@@ -4095,10 +4103,10 @@ present moment."
 "Admirable! You are rich then, my dear Monsieur Bonacieux?"
 
 "I am comfortably off, monsieur, that's all; I have scraped together
-some such thing as an income of two or three thousand crown in the
+some such things as an income of two or three thousand crowns in the
 haberdashery business, but more particularly in venturing some funds in
 the last voyage of the celebrated navigator Jean Moquet; so that you
-understand, monsieur--But--" cried the citizen.
+understand, monsieur--But!--" cried the citizen.
 
 "What!" demanded d'Artagnan.
 
@@ -4184,7 +4192,7 @@ specter."
 "I never believe in anything I have not seen, and as I never have seen
 apparitions, I don't believe in them."
 
-"The Bible," said Aramis, "make our belief in them a law; the ghost of
+"The Bible," said Aramis, "makes our belief in them a law; the ghost of
 Samuel appeared to Saul, and it is an article of faith that I should be
 very sorry to see any doubt thrown upon, Porthos."
 
@@ -4667,7 +4675,7 @@ pounce upon such a mouse!"
 The knocker had scarcely sounded under the hand of the young man before
 the tumult ceased, steps approached, the door was opened, and
 d'Artagnan, sword in hand, rushed into the rooms of M. Bonacieux, the
-door of which doubtless acted upon by a spring, closed after him.
+door of which, doubtless acted upon by a spring, closed after him.
 
 Then those who dwelt in Bonacieux's unfortunate house, together with the
 nearest neighbors, heard loud cries, stamping of feet, clashing of
@@ -5071,7 +5079,7 @@ procures herself this indulgence, the gratitude for it seldom reverts to
 him.
 
 Then d'Artagnan, disposed to become the most tender of lovers, was at
-the same time a very devoted friend, In the midst of his amorous
+the same time a very devoted friend. In the midst of his amorous
 projects for the mercer's wife, he did not forget his friends. The
 pretty Mme. Bonacieux was just the woman to walk with in the Plain St.
 Denis or in the fair of St. Germain, in company with Athos, Porthos, and
@@ -5081,14 +5089,14 @@ friend, and on the other the foot of a mistress. Besides, on pressing
 occasions, in extreme difficulties, d'Artagnan would become the
 preserver of his friends.
 
-And M. Bonacieux? whom d'Artagnan had pushed into the hands of the
+And M. Bonacieux, whom d'Artagnan had pushed into the hands of the
 officers, denying him aloud although he had promised in a whisper to
-save him. We are compelled to admit to our readers that d'Artagnan
+save him? We are compelled to admit to our readers that d'Artagnan
 thought nothing about him in any way; or that if he did think of him, it
 was only to say to himself that he was very well where he was, wherever
 it might be. Love is the most selfish of all the passions.
 
-Let our readers reassure themselves. IF d'Artagnan forgets his host, or
+Let our readers reassure themselves. If d'Artagnan forgets his host, or
 appears to forget him, under the pretense of not knowing where he has
 been carried, we will not forget him, and we know where he is. But for
 the moment, let us do as did the amorous Gascon; we will see after the
@@ -5405,7 +5413,7 @@ before done in the Rue Vaugirard. She seemed, however, by certain signs,
 to recognize a door, and approaching that door, "And now, monsieur,"
 said she, "it is here I have business; a thousand thanks for your
 honorable company, which has saved me from all the dangers to which,
-alone I was exposed. But the moment is come to keep your word; I have
+alone, I was exposed. But the moment is come to keep your word; I have
 reached my destination."
 
 "And you will have nothing to fear on your return?"
@@ -5600,7 +5608,7 @@ as that of Planchet; for, soliloquizing aloud, as very preoccupied
 people do, he had entered the alley, at the end of which were the stairs
 which led to his chamber.
 
-"How badly? What do you mean by that, you idiot?" asked d'Artagnan.
+"How, badly? What do you mean by that, you idiot?" asked d'Artagnan.
 "What has happened?"
 
 "All sorts of misfortunes."
@@ -5666,7 +5674,7 @@ that I am attached to him."
 adopted with this boy is decidedly the best. I shall use it again upon
 occasion."
 
-And with all the swiftness of his legs, already a little fatigued
+And with all the swiftness of his legs, already a little fatigued,
 however, with the perambulations of the day, d'Artagnan directed his
 course toward M. de Treville's.
 
@@ -5721,7 +5729,7 @@ face; he was resolved to unravel the mystery.
 
 The young man and young woman perceived they were watched, and redoubled
 their speed. D'Artagnan determined upon his course. He passed them, then
-returned so as to meet them exactly before the Samaritaine. Which was
+returned so as to meet them exactly before the Samaritaine, which was
 illuminated by a lamp which threw its light over all that part of the
 bridge.
 
@@ -5951,7 +5959,7 @@ beautiful arms--those lovely arms--with large diamonds. You wore a close
 ruff, a small cap upon your head of the same color as your robe, and in
 that cap a heron's feather. Hold! Hold! I shut my eyes, and I can see
 you as you then were; I open them again, and I see what you are now--a
-hundred time more beautiful!"
+hundred times more beautiful!"
 
 "What folly," murmured Anne of Austria, who had not the courage to find
 fault with the duke for having so well preserved her portrait in his
@@ -6004,7 +6012,7 @@ as you well know, my Lord. The king, excited by the cardinal, made a
 terrible clamor. Madame de Vernet was driven from me, Putange was
 exiled, Madame de Chevreuse fell into disgrace, and when you wished to
 come back as ambassador to France, the king himself--remember, my
-lord--the king himself opposed to it."
+lord--the king himself opposed it."
 
 "Yes, and France is about to pay for her king's refusal with a war. I am
 not allowed to see you, madame, but you shall every day hear of me. What
@@ -6033,7 +6041,7 @@ in spite of herself, by the expression of so profound a passion.
 
 "You would love me, then, if you were not queen! Madame, say that you
 would love me then! I can believe that it is the dignity of your rank
-alone which makes you cruel to me; I can believe that you had been
+alone which makes you cruel to me; I can believe that, had you been
 Madame de Chevreuse, poor Buckingham might have hoped. Thanks for those
 sweet words! Oh, my beautiful sovereign, a hundred times, thanks!"
 
@@ -6370,6 +6378,8 @@ that he was betraying me."
 and in virtue of that compact put to flight the police who had arrested
 your wife, and has placed her beyond reach."
 
+"M. d'Artagnan has abducted my wife! Come now, what are you telling me?"
+
 "Fortunately, Monsieur d'Artagnan is in our hands, and you shall be
 confronted with him."
 
@@ -6609,7 +6619,7 @@ made still longer by a ROYAL (or IMPERIAL, as it is now called),
 surmounted by a pair of mustaches. Although this man was scarcely
 thirty-six or thirty-seven years of age, hair, mustaches, and royal, all
 began to be gray. This man, except a sword, had all the appearance of a
-soldier; and his buff boots still slightly covered with dust, indicated
+soldier; and his buff boots, still slightly covered with dust, indicated
 that he had been on horseback in the course of the day.
 
 This man was Armand Jean Duplessis, Cardinal de Richelieu; not such as
@@ -6944,7 +6954,7 @@ Buckingham are now concealed?"
 "Instantly, monseigneur." And Rochefort went hastily out of the
 apartment.
 
-The cardinal being left alone, reflected for an instant and then rang
+The cardinal, being left alone, reflected for an instant and then rang
 the bell a third time. The same officer appeared.
 
 "Bring the prisoner in again," said the cardinal.
@@ -7000,6 +7010,16 @@ will go away without being too malcontent."
 "I go away enchanted."
 
 "Farewell, then, or rather, AU REVOIR!"
+
+"Whenever Monseigneur wishes, I shall be firmly at the orders of his
+Eminence."
+
+"That will be often, be assured, for I have found your conversation
+quite charming."
+
+"Oh! Monseigneur!"
+
+"AU REVOIR, Monsieur Bonacieux, AU REVOIR."
 
 And the cardinal made him a sign with his hand, to which Bonacieux
 replied by bowing to the ground. He then went out backward, and when he
@@ -7091,7 +7111,7 @@ sure of his aid and support as if he had been his own brother.
 
 He repaired, then, instantly to the office of the LIEUTENANT-CRIMINEL.
 The officer who commanded the post of the Red Cross was sent for, and by
-successive inquiries they learned that Athos was then lodged in the Fort
+successive inquiries they learned that Athos was then lodged in Fort
 l'Eveque.
 
 Athos had passed through all the examinations we have seen Bonacieux
@@ -7119,8 +7139,8 @@ Athos was then sent to the cardinal; but unfortunately the cardinal was
 at the Louvre with the king.
 
 It was precisely at this moment that M. de Treville, on leaving the
-residence of the LIEUTENANT-CRIMINEL and the governor of the Fort
-l'Eveque without being able to find Athos, arrived at the palace.
+residence of the LIEUTENANT-CRIMINEL and the governor of Fort l'Eveque
+without being able to find Athos, arrived at the palace.
 
 As captain of the Musketeers, M. de Treville had the right of entry at
 all times.
@@ -7154,7 +7174,7 @@ justice violently, by falling sword in hand upon the honest men of the
 law, charged with investigating impartially the whole affair in order to
 place it before the eyes of the king--Louis XIII could not contain
 himself, and he made a step toward the queen's apartment with that pale
-and mute indignation which, when in broke out, led this prince to the
+and mute indignation which, when it broke out, led this prince to the
 commission of the most pitiless cruelty. And yet, in all this, the
 cardinal had not yet said a word about the Duke of Buckingham.
 
@@ -7180,7 +7200,7 @@ Majesty concerning these gownsmen."
 the same tone, "that a party of PROCUREURS, commissaries, and men of the
 police--very estimable people, but very inveterate, as it appears,
 against the uniform--have taken upon themselves to arrest in a house, to
-lead away through the open street, and throw into the Fort l'Eveque, all
+lead away through the open street, and throw into Fort l'Eveque, all
 upon an order which they have refused to show me, one of my, or rather
 your Musketeers, sire, of irreproachable conduct, of an almost
 illustrious reputation, and whom your Majesty knows favorably, Monsieur
@@ -7191,7 +7211,7 @@ Athos."
 "Let your Majesty remember," said Treville, "that Monsieur Athos is the
 Musketeer who, in the annoying duel which you are acquainted with, had
 the misfortune to wound Monsieur de Cahusac so seriously. A PROPOS,
-monseigneur," continued Treville. Addressing the cardinal, "Monsieur de
+monseigneur," continued Treville, addressing the cardinal, "Monsieur de
 Cahusac is quite recovered, is he not?"
 
 "Thank you," said the cardinal, biting his lips with anger.
@@ -7292,7 +7312,7 @@ to fraternize with a Guard of Dessessart's company?"
 know it?"
 
 "Indeed, sire, I did not. The house may be suspected; but I deny that it
-is so in the part of it inhabited my Monsieur d'Artagnan, for I can
+is so in the part of it inhabited by Monsieur d'Artagnan, for I can
 affirm, sire, if I can believe what he says, that there does not exist a
 more devoted servant of your Majesty, or a more profound admirer of
 Monsieur the Cardinal."
@@ -7742,7 +7762,7 @@ hand on her bosom.
 
 "Then give me that letter, madame," said the chancellor.
 
-"I will give it to none but the king monsieur," said Anne.
+"I will give it to none but the king, monsieur," said Anne.
 
 "If the king had desired that the letter should be given to him, madame,
 he would have demanded it of you himself. But I repeat to you, I am
@@ -7772,17 +7792,17 @@ The chancellor made a profound reverence. Then, with the intention quite
 patent of not drawing back a foot from the accomplishment of the
 commission with which he was charged, and as the attendant of an
 executioner might have done in the chamber of torture, he approached
-Anne of Austria, for whose eyes at the same instant sprang tears of
+Anne of Austria, from whose eyes at the same instant sprang tears of
 rage.
 
 The queen was, as we have said, of great beauty. The commission might
 well be called delicate; and the king had reached, in his jealousy of
 Buckingham, the point of not being jealous of anyone else.
 
-Without doubt the chancellor, Seguier looked about at that moment for
-the rope of the famous bell; but not finding it he summoned his
-resolution, and stretched forth his hands toward the place where the
-queen had acknowledged the paper was to be found.
+Without doubt the chancellor Seguier looked about at that moment for the
+rope of the famous bell; but not finding it he summoned his resolution,
+and stretched forth his hands toward the place where the queen had
+acknowledged the paper was to be found.
 
 Anne of Austria took one step backward, became so pale that it might be
 said she was dying, and leaning with her left hand upon a table behind
@@ -7915,12 +7935,12 @@ repellent. Her womanly pride and her queenly dignity had both been so
 cruelly offended that she could not come round at the first advance;
 but, overpersuaded by the advice of her women, she at last had the
 appearance of beginning to forget. The king took advantage of this
-favorable moment to tell her that her had the intention of shortly
-giving a fete.
+favorable moment to tell her that he had the intention of shortly giving
+a fete.
 
 A fete was so rare a thing for poor Anne of Austria that at this
 announcement, as the cardinal had predicted, the last trace of her
-resentment disappeared, if not from her heart at least from her
+resentment disappeared, if not from her heart, at least from her
 countenance. She asked upon what day this fete would take place, but the
 king replied that he must consult the cardinal upon that head.
 
@@ -8068,11 +8088,11 @@ She knelt upon a cushion and prayed, with her head buried between her
 palpitating arms.
 
 In fact, her position was terrible. Buckingham had returned to London;
-Mme. Chevreuse was at Tours. More closely watched than ever, the queen
-felt certain, without knowing how to tell which, that one of her women
-had betrayed her. Laporte could not leave the Louvre; she had not a soul
-in the world in whom she could confide. Thus, while contemplating the
-misfortune which threatened her and the abandonment in which she was
+Mme. de Chevreuse was at Tours. More closely watched than ever, the
+queen felt certain, without knowing how to tell which, that one of her
+women had betrayed her. Laporte could not leave the Louvre; she had not
+a soul in the world in whom she could confide. Thus, while contemplating
+the misfortune which threatened her and the abandonment in which she was
 left, she broke out into sobs and tears.
 
 "Can I be of service to your Majesty?" said all at once a voice full of
@@ -8153,7 +8173,7 @@ carries, and he will carry your Majesty's letter, without even knowing
 it is from your Majesty, to the address which is on it."
 
 The queen took the two hands of the young woman with a burst of emotion,
-gazed at her as if to read her very heart, and seeing nothing but
+gazed at her as if to read her very heart, and, seeing nothing but
 sincerity in her beautiful eyes, embraced her tenderly.
 
 "Do that," cried she, "and you will have saved my life, you will have
@@ -8216,13 +8236,18 @@ not seen her husband since his liberation; she was ignorant of the
 change that had taken place in him with respect to the cardinal--a
 change which had since been strengthened by two or three visits from the
 Comte de Rochefort, who had become the best friend of Bonacieux, and had
-persuaded him, without much trouble, was putting his house in order, the
-furniture of which he had found mostly broken and his closets nearly
-empty--justice not being one of the three things which King Solomon
-names as leaving no traces of their passage. As to the servant, she had
-run away at the moment of her master's arrest. Terror had had such an
-effect upon the poor girl that she had never ceased walking from Paris
-till she reached Burgundy, her native place.
+persuaded him, without much trouble, that no culpable sentiments had
+prompted the abduction of his wife, but that it was only a political
+precaution.
+
+She found M. Bonacieux alone; the poor man was recovering with
+difficulty the order in his house, in which he had found most of the
+furniture broken and the closets nearly emptied--justice not being one
+of the three things which King Solomon names as leaving no traces of
+their passage. As to the servant, she had run away at the moment of her
+master's arrest. Terror had had such an effect upon the poor girl that
+she had never ceased walking from Paris till she reached Burgundy, her
+native place.
 
 The worthy mercer had, immediately upon re-entering his house, informed
 his wife of his happy return, and his wife had replied by congratulating
@@ -8250,8 +8275,8 @@ of inspiring any sentiment whatever in a young woman whose heart was
 above her position--Mme. Bonacieux had remained insensible to vulgar
 seductions; but at this period the title of gentleman had great
 influence with the citizen class, and d'Artagnan was a gentleman.
-Besides, he wore the uniform of the Guards, which next to that of the
-Musketeers was most admired by the ladies. He was, we repeat, handsome,
+Besides, he wore the uniform of the Guards, which, next to that of the
+Musketeers, was most admired by the ladies. He was, we repeat, handsome,
 young, and bold; he spoke of love like a man who did love and was
 anxious to be loved in return. There was certainly enough in all this to
 turn a head only twenty-three years old, and Mme. Bonacieux had just
@@ -8300,7 +8325,7 @@ mercer, piqued to the quick.
 fortune perhaps depends."
 
 "The complexion of our fortune has changed very much since I saw you,
-Madam Bonacieux, and I should not be astonished if in the course of a
+Madame Bonacieux, and I should not be astonished if in the course of a
 few months it were to excite the envy of many folks."
 
 "Yes, particularly if you follow the instructions I am about to give
@@ -8377,7 +8402,7 @@ ephemeral, and that a man must be mad to attach himself to a minister.
 There are powers above his which do not depend upon a man or the issue
 of an event; it is to these powers we should rally."
 
-"I am sorry for it, madame, but I acknowledge not her power but that of
+"I am sorry for it, madame, but I acknowledge no other power but that of
 the great man whom I have the honor to serve."
 
 "You serve the cardinal?"
@@ -8419,7 +8444,7 @@ sound a money; "what do you think of this, Madame Preacher?"
 
 "From him, and from my friend the Comte de Rochefort."
 
-"The Comte de Rochefort! Why it was he who carried me off!"
+"The Comte de Rochefort! Why, it was he who carried me off!"
 
 "That may be, madame!"
 
@@ -8556,7 +8581,7 @@ necessarily be much deranged."
 Bonacieux kissed his wife's hand, and set off at a quick pace.
 
 "Well," said Mme. Bonacieux, when her husband had shut the street door
-and she found herself alone; "that imbecile lacked but one thing to
+and she found herself alone; "that imbecile lacked but one thing: to
 become a cardinalist. And I, who have answered for him to the queen--I,
 who have promised my poor mistress--ah, my God, my God! She will take me
 for one of those wretches with whom the palace swarms and who are placed
@@ -8594,7 +8619,7 @@ cardinal's police."
 
 "A thousand things. In the first place, that, unfortunately, your
 husband is a simpleton and a fool; in the next place, you are in
-trouble, of which I am very glad, as it gives me a opportunity of
+trouble, of which I am very glad, as it gives me an opportunity of
 placing myself at your service, and God knows I am ready to throw myself
 into the fire for you; finally, that the queen wants a brave,
 intelligent, devoted man to make a journey to London for her. I have at
@@ -8767,7 +8792,7 @@ I to justify it if I am here?"
 
 "Ah," said Mme. Bonacieux, "you speak that in a tone that frightens me!"
 
-Mme. Bonacieux pronounced these words with tears in her eyes. d'Artagnan
+Mme. Bonacieux pronounced these words with tears in her eyes. D'Artagnan
 saw those tears, and much disturbed, softened, he threw himself at her
 feet.
 
@@ -9125,7 +9150,7 @@ further, he had seldom seen the young Musketeer; but every time he had
 seen him, he had remarked a deep sadness imprinted on his countenance.
 
 This evening, especially, Aramis was melancholy and thoughtful.
-d'Artagnan asked some questions about this prolonged melancholy. Aramis
+D'Artagnan asked some questions about this prolonged melancholy. Aramis
 pleaded as his excuse a commentary upon the eighteenth chapter of St.
 Augustine, which he was forced to write in Latin for the following week,
 and which preoccupied him a good deal.
@@ -9531,7 +9556,7 @@ The host had the appearance of as honest a man as any on earth. He
 received the travelers with his candlestick in one hand and his cotton
 nightcap in the other. He wished to lodge the two travelers each in a
 charming chamber; but unfortunately these charming chambers were at the
-opposite extremities of the hotel. d'Artagnan and Athos refused them.
+opposite extremities of the hotel. D'Artagnan and Athos refused them.
 The host replied that he had no other worthy of their Excellencies; but
 the travelers declared they would sleep in the common chamber, each on a
 mattress which might be thrown upon the ground. The host insisted; but
@@ -9888,7 +9913,7 @@ The confidence with which d'Artagnan spoke convinced Patrick, which was
 the name of this minister of the minister. He ordered two horses to be
 saddled, and himself went as guide to the young Guardsman. As for
 Planchet, he had been lifted from his horse as stiff as a rush; the poor
-lad's strength was almost exhausted. d'Artagnan seemed iron.
+lad's strength was almost exhausted. D'Artagnan seemed iron.
 
 On their arrival at the castle they learned that Buckingham and the king
 were hawking in the marshes two or three leagues away. In twenty minutes
@@ -9980,7 +10005,7 @@ would slacken his pace, but it was not so. He kept on his way at the
 same rate, heedless about upsetting those whom he met on the road. In
 fact, in crossing the city two or three accidents of this kind happened;
 but Buckingham did not even turn his head to see what became of those he
-had knocked down. d'Artagnan followed him amid cries which strongly
+had knocked down. D'Artagnan followed him amid cries which strongly
 resembled curses.
 
 On entering the court of his hotel, Buckingham sprang from his horse,
@@ -10680,9 +10705,10 @@ softly in a manner agreed upon between him and his lackey. Planchet*,
 whom he had sent home two hours before from the Hotel de Ville, telling
 him to sit up for him, opened the door for him.
 
-The reader may ask, "How came Planchet here?" when he was left "stiff as
-a rush" in London. In the intervening time Buckingham perhaps sent him
-to Paris, as he did the horses.
+    _*The reader may ask, "How came Planchet here?" when he was left
+            "stiff as a rush" in London. In the intervening time
+            Buckingham perhaps sent him to Paris, as he did the
+            horses._
 
 "Has anyone brought a letter for me?" asked d'Artagnan, eagerly.
 
@@ -11385,7 +11411,7 @@ some bloody spots staining the cloth and the curtains. He hastened to
 descend into the street, with a frightful beating at his heart; he
 wished to see if he could find other traces of violence.
 
-The little soft light shone on in the calmness of the night. d'Artagnan
+The little soft light shone on in the calmness of the night. D'Artagnan
 then perceived a thing that he had not before remarked--for nothing had
 led him to the examination--that the ground, trampled here and
 hoofmarked there, presented confused traces of men and horses. Besides,
@@ -11582,7 +11608,7 @@ carried her off. His mind was torn by doubt, grief, and despair.
 least, some hopes of finding her; but who knows what has become of
 them?"
 
-It was past midnight; the next thing was to find Planchet. d'Artagnan
+It was past midnight; the next thing was to find Planchet. D'Artagnan
 went successively into all the cabarets in which there was a light, but
 could not find Planchet in any of them.
 
@@ -11786,10 +11812,10 @@ monsieur, the visit I received in your absence."
 "Indeed!"
 
 "He came, he said, on the part of his Eminence, who wished you well, and
-to beg you to follow him to the Palais-Royal." [*]
+to beg you to follow him to the Palais-Royal*."
 
     _*It was called the Palais-Cardinal before Richelieu gave it to
-    the King._
+            the King._
 
 "What did you answer him?"
 
@@ -11917,7 +11943,7 @@ the following conversation.
 "My faith, my good host," said d'Artagnan, filling the two glasses, "I
 asked for a bottle of your best wine, and if you have deceived me, you
 will be punished in what you have sinned; for seeing that I hate
-drinking my myself, you shall drink with me. Take your glass, then, and
+drinking by myself, you shall drink with me. Take your glass, then, and
 let us drink. But what shall we drink to, so as to avoid wounding any
 susceptibility? Let us drink to the prosperity of your establishment."
 
@@ -12129,7 +12155,7 @@ named Madame Coquenard, who, although she is at least fifty, still gives
 herself jealous airs. It struck me as very odd that a princess should
 live in the Rue aux Ours."
 
-    _* Attorney_
+    _*Attorney_
 
 "But how do you know all this?"
 
@@ -12523,7 +12549,7 @@ have paid him the price of his devotedness; but let us hasten to say
 that this sadness possessed the young man less from the regret of the
 happiness he had missed, than from the fear he entertained that some
 serious misfortune had befallen the poor woman. For himself, he had no
-doubt she was a victim of the cardinal's vengeance; and, and as was well
+doubt she was a victim of the cardinal's vengeance; and, as was well
 known, the vengeance of his Eminence was terrible. How he had found
 grace in the eyes of the minister, he did not know; but without doubt M.
 de Cavois would have revealed this to him if the captain of the Guards
@@ -12546,7 +12572,7 @@ There only his memory returned to him. He shook his head, perceived the
 cabaret at which he had left Aramis, and putting his horse to the trot,
 he shortly pulled up at the door.
 
-This time it was not a host but a hostess who received him. d'Artagnan
+This time it was not a host but a hostess who received him. D'Artagnan
 was a physiognomist. His eye took in at a glance the plump, cheerful
 countenance of the mistress of the place, and he at once perceived there
 was no occasion for dissembling with her, or of fearing anything from
@@ -13108,7 +13134,7 @@ Fie!"
 "Pardon, my dear Aramis, but I thought you carried your eyes higher."
 
 "Higher? And who am I, to nourish such ambition? A poor Musketeer, a
-beggar, an unknown-who hates slavery, and finds himself ill-placed in
+beggar, an unknown--who hates slavery, and finds himself ill-placed in
 the world."
 
 "Aramis, Aramis!" cried d'Artagnan, looking at his friend with an air of
@@ -13443,9 +13469,9 @@ constriction of the brow and by a deeper sadness.
 
 D'Artagnan, whose inquiring disposition we are acquainted with, had
 not--whatever interest he had in satisfying his curiosity on this
-subject--been able to assign any cause for these fits of for the periods
-of their recurrence. Athos never received any letters; Athos never had
-concerns which all his friends did not know.
+subject--been able to assign any cause for these fits, or for the
+periods of their recurrence. Athos never received any letters; Athos
+never had concerns which all his friends did not know.
 
 It could not be said that it was wine which produced this sadness; for
 in truth he only drank to combat this sadness, which wine however, as we
@@ -13488,7 +13514,7 @@ were fighting."
 
 These words redoubled the eagerness of d'Artagnan, who urged his horse,
 though he stood in need of no incitement, and they proceeded at a rapid
-pace. About eleven o'clock in the morning they perceived Ameins, and at
+pace. About eleven o'clock in the morning they perceived Amiens, and at
 half past eleven they were at the door of the cursed inn.
 
 D'Artagnan had often meditated against the perfidious host one of those
@@ -13856,7 +13882,7 @@ obliged to dress those you had inflicted on him."
 "You shall pay me for all this," cried the exasperated host.
 
 "Triple ass!" said Athos, rising; but he sank down again immediately. He
-had tried his strength to the utmost. d'Artagnan came to his relief with
+had tried his strength to the utmost. D'Artagnan came to his relief with
 his whip in his hand.
 
 The host drew back and burst into tears.
@@ -13953,7 +13979,7 @@ with you, and what has happened to you personally? You have a sad air."
 
 "Presently," said d'Artagnan.
 
-"Presently! And why presently? Because you think I am drunk? d'Artagnan,
+"Presently! And why presently? Because you think I am drunk? D'Artagnan,
 remember this! My ideas are never so clear as when I have had plenty of
 wine. Speak, then, I am all ears."
 
@@ -14058,8 +14084,8 @@ supported her rank becomingly."
 "Well, one day when she was hunting with her husband," continued Athos,
 in a low voice, and speaking very quickly, "she fell from her horse and
 fainted. The count flew to her to help, and as she appeared to be
-oppressed by her clothes, he ripped them open with his ponaird, and in
-so doing laid bare her shoulder. d'Artagnan," said Athos, with a
+oppressed by her clothes, he ripped them open with his poniard, and in
+so doing laid bare her shoulder. D'Artagnan," said Athos, with a
 maniacal burst of laughter, "guess what she had on her shoulder."
 
 "How can I tell?" said d'Artagnan.
@@ -14446,7 +14472,7 @@ humor.
 dice is extraordinary. I have not seen such a one four times in my life.
 Two aces!"
 
-The Englishman looked, and was seized with astonishment. d'Artagnan
+The Englishman looked, and was seized with astonishment. D'Artagnan
 looked, and was seized with pleasure.
 
 "Yes," continued Athos, "four times only; once at the house of Monsieur
@@ -14733,7 +14759,8 @@ much have you left of your hundred pistoles, d'Artagnan?"
 
 "You think so?"
 
-"PARDIEU!" "Ah, that is true. I recollect."
+"PARDIEU!"
+       "Ah, that is true. I recollect."
 
 "Then I paid the host six."
 
@@ -14892,7 +14919,7 @@ church of St. Leu, and followed him instinctively. He entered, after
 having twisted his mustache and elongated his imperial, which always
 announced on his part the most triumphant resolutions. As d'Artagnan
 took some precautions to conceal himself, Porthos believed he had not
-been seen. d'Artagnan entered behind him. Porthos went and leaned
+been seen. D'Artagnan entered behind him. Porthos went and leaned
 against the side of a pillar. D'Artagnan, still unperceived, supported
 himself against the other side.
 
@@ -15125,7 +15152,7 @@ The procurator's wife was piqued.
 strongbox of a procurator's wife though it may be, is better filled than
 those of your affected minxes."
 
-"The doubles the offense," said Porthos, disengaging his arm from that
+"That doubles the offense," said Porthos, disengaging his arm from that
 of the procurator's wife; "for if you are rich, Madame Coquenard, then
 there is no excuse for your refusal."
 
@@ -15239,7 +15266,7 @@ appetizing appearance.
 
 He ordered him to go and saddle two horses in M. de Treville's
 stables--one for himself, d'Artagnan, and one for Planchet--and bring
-them to Athens's place. Once for all, Treville had placed his stable at
+them to Athos's place. Once for all, Treville had placed his stable at
 d'Artagnan's service.
 
 Planchet proceeded toward the Rue du Colombier, and d'Artagnan toward
@@ -15323,7 +15350,7 @@ that he did not know which way to turn. Meantime, he was going to try to
 find out Milady. Milady had spoken to the man in the black cloak;
 therefore she knew him. Now, in the opinion of d'Artagnan, it was
 certainly the man in the black cloak who had carried off Mme. Bonacieux
-the second time, as he had carried her off the first. d'Artagnan then
+the second time, as he had carried her off the first. D'Artagnan then
 only half-lied, which is lying but little, when he said that by going in
 search of Milady he at the same time went in search of Constance.
 
@@ -15738,7 +15765,7 @@ and Planchet.
 Lord de Winter, on quitting d'Artagnan, gave him his sister's address.
 She lived in the Place Royale--then the fashionable quarter--at Number
 6, and he undertook to call and take d'Artagnan with him in order to
-introduce him. d'Artagnan appointed eight o'clock at Athos's residence.
+introduce him. D'Artagnan appointed eight o'clock at Athos's residence.
 
 This introduction to Milady Clarik occupied the head of our Gascon
 greatly. He remembered in what a strange manner this woman had hitherto
@@ -16808,6 +16835,7 @@ Kitty's consolation.
 
 34 IN WHICH THE EQUIPMENT OF ARAMIS AND PORTHOS IS TREATED OF
 
+
 Since the four friends had been each in search of his equipments, there
 had been no fixed meeting between them. They dined apart from one
 another, wherever they might happen to be, or rather where they could.
@@ -16889,7 +16917,7 @@ mean to do?"
 
 "I am satisfied with having killed that fellow, my boy, seeing that it
 is blessed bread to kill an Englishman; but if I had pocketed his
-pistoles, they would have weighed me down like a remorse.
+pistoles, they would have weighed me down like a remorse."
 
 "Go to, my dear Athos; you have truly inconceivable ideas."
 
@@ -17065,7 +17093,7 @@ hide in my life."
 "I can well believe it," replied d'Artagnan, "and that was why I got
 three crowns for him. It must have been for his hide, for, CERTES, the
 carcass is not worth eighteen livres. But how did this horse come into
-your bands, Mousqueton?"
+your hands, Mousqueton?"
 
 "Pray," said the lackey, "say nothing about it, monsieur; it is a
 frightful trick of the husband of our duchess!"
@@ -17301,7 +17329,7 @@ in her own, "I am happy in the love which your looks and your words have
 expressed to me every time we have met. I also--I love you. Oh,
 tomorrow, tomorrow, I must have some pledge from you which will prove
 that you think of me; and that you may not forget me, take this!" and
-she slipped a ring from her finger onto d'Artagnan's. d'Artagnan
+she slipped a ring from her finger onto d'Artagnan's. D'Artagnan
 remembered having seen this ring on the finger of Milady; it was a
 magnificent sapphire, encircled with brilliants.
 
@@ -17509,7 +17537,7 @@ That evening Milady gave orders that when M. d'Artagnan came as usual,
 he should be immediately admitted; but he did not come.
 
 The next day Kitty went to see the young man again, and related to him
-all that had passed on the preceding evening. d'Artagnan smiled; this
+all that had passed on the preceding evening. D'Artagnan smiled; this
 jealous anger of Milady was his revenge.
 
 That evening Milady was still more impatient than on the preceding
@@ -17553,7 +17581,7 @@ way that you are always in the right. You are going now to pay your
 court to her again, and if this time you succeed in pleasing her in your
 own name and with your own face, it will be much worse than before."
 
-Instinct made poor Kitty guess a part of what was to happen. d'Artagnan
+Instinct made poor Kitty guess a part of what was to happen. D'Artagnan
 reassured her as well as he could, and promised to remain insensible to
 the seductions of Milady.
 
@@ -18645,7 +18673,7 @@ on the table.
 Grimaud had a stout, short Picard cob, which cost three hundred livres.
 
 But when the saddle and arms for Grimaud were purchased, Athos had not a
-sou left of his hundred and fifty pistoles. d'Artagnan offered his
+sou left of his hundred and fifty pistoles. D'Artagnan offered his
 friend a part of his share which he should return when convenient.
 
 But Athos only replied to this proposal by shrugging his shoulders.
@@ -18945,7 +18973,7 @@ At this moment the clock of La Samaritaine struck six; the four friends
 pleaded an engagement, and took leave of M. de Treville.
 
 A short gallop brought them to the road of Chaillot; the day began to
-decline, carriages were passing and repassing. d'Artagnan, keeping at
+decline, carriages were passing and repassing. D'Artagnan, keeping at
 some distance from his friends, darted a scrutinizing glance into every
 carriage that appeared, but saw no face with which he was acquainted.
 
@@ -19051,7 +19079,7 @@ not allow me to be carried away without a struggle. Nevertheless,
 Monsieur de Treville's company of Musketeers alone cannot maintain a war
 against the cardinal, who disposes of the forces of all France, and
 before whom the queen is without power and the king without will.
-d'Artagnan, my friend, you are brave, you are prudent, you have
+D'Artagnan, my friend, you are brave, you are prudent, you have
 excellent qualities; but the women will ruin you!"
 
 He came to this melancholy conclusion as he entered the antechamber. He
@@ -19538,7 +19566,7 @@ uneasiness if he had been able to guess by what unknown dangers he was
 surrounded.
 
 He, however, arrived without accident in the camp established before La
-Rochelle, of the tenth of the month of September of the year 1627.
+Rochelle, on the tenth of the month of September of the year 1627.
 
 Everything was in the same state. The Duke of Buckingham and his
 English, masters of the Isle of Re, continued to besiege, but without
@@ -20467,7 +20495,7 @@ orders, sometimes to confer with the king, and sometimes to have an
 interview with a messenger whom he did not wish to see at home.
 
 On their part the Musketeers, who had not much to do with the siege,
-were not under very strict orders and led a joyous life. The was the
+were not under very strict orders and led a joyous life. This was the
 more easy for our three companions in particular; for being friends of
 M. de Treville, they obtained from him special permission to be absent
 after the closing of the camp.
@@ -20521,7 +20549,7 @@ of his companion. Athos made a sign to Porthos and Aramis also to remain
 in the rear, and advanced alone.
 
 "Your pardon, my officer," said Athos; "but we were ignorant with whom
-we had to do, and you may see that we were good guard."
+we had to do, and you may see that we were keeping good guard."
 
 "Your name?" said the officer, who covered a part of his face with his
 cloak.
@@ -20730,8 +20758,11 @@ and let us talk it over."
 voice which made the Musketeer start.
 
 "A small vessel with an English crew, whose captain is on my side,
-awaits you at the mouth of Charente, at fort of the Point. He will set
+awaits you at the mouth of Charente, at Fort La Pointe*. He will set
 sail tomorrow morning."
+
+    _*Fort La Pointe, or Fort Vasou, was not built until 1672,
+            nearly 50 years later._
 
 "I must go thither tonight?"
 
@@ -21109,8 +21140,8 @@ some words of our host, which made him believe the road was not safe."
 
 The attendant was at the door, holding the cardinal's horse by the
 bridle. At a short distance a group of two men and three horses appeared
-in the shade. These were the two men who were to conduct Milady to the
-fort of the Point, and superintend her embarkation.
+in the shade. These were the two men who were to conduct Milady to Fort
+La Pointe, and superintend her embarkation.
 
 The attendant confirmed to the cardinal what the two Musketeers had
 already said with respect to Athos. The cardinal made an approving
@@ -21280,12 +21311,12 @@ a paper, and held it toward Athos.
 Athos took the paper, returned the pistol to his belt, approached the
 lamp to be assured that it was the paper, unfolded it, and read:
 
-Dec. 3, 1627
+"Dec. 3, 1627
 
-It is by my order and for the good of the state that the bearer of this
+"It is by my order and for the good of the state that the bearer of this
 has done what he has done.
 
-Richelieu
+"RICHELIEU"
 
 "And now," said Athos, resuming his cloak and putting on his hat, "now
 that I have drawn your teeth, viper, bite if you can."
@@ -21295,8 +21326,8 @@ And he left the chamber without once looking behind him.
 At the door he found the two men and the spare horse which they held.
 
 "Gentlemen," said he, "Monseigneur's order is, you know, to conduct that
-woman, without losing time, to the fort of the Point, and never to leave
-her till she is on board."
+woman, without losing time, to Fort La Pointe, and never to leave her
+till she is on board."
 
 As these words agreed wholly with the order they had received, they
 bowed their heads in sign of assent.
@@ -21866,8 +21897,8 @@ apparition, stopped fifty paces from the bastion: "Gentlemen, a few
 friends and myself are about to breakfast in this bastion. Now, you know
 nothing is more disagreeable than being disturbed when one is at
 breakfast. We request you, then, if you really have business here, to
-wait till we have finished or repast, or to come again a short time
-hence, unless; unless, which would be far better, you form the salutary
+wait till we have finished our repast, or to come again a short time
+hence; unless, which would be far better, you form the salutary
 resolution to quit the side of the rebels, and come and drink with us to
 the health of the King of France."
 
@@ -21973,12 +22004,12 @@ indebted to you for my life."
 pocket of his uniform. D'Artagnan unfolded it with one hand, whose
 trembling he did not even attempt to conceal, to read:
 
-Dec. 3, 1627
+"Dec. 3, 1627
 
-It is by my order and for the good of the state that the bearer of this
+"It is by my order and for the good of the state that the bearer of this
 has done what he has done.
 
-"Richelieu"
+"RICHELIEU"
 
 "In fact," said Aramis, "it is an absolution according to rule."
 
@@ -22197,9 +22228,9 @@ Athos.
 "You don't think of holding out against a whole regiment, do you?" said
 Porthos.
 
-"Why not?" said Musketeer. "I feel myself quite in a humor for it; and I
-would hold out before an army if we had taken the precaution to bring a
-dozen more bottles of wine."
+"Why not?" said the Musketeer. "I feel myself quite in a humor for it;
+and I would hold out before an army if we had taken the precaution to
+bring a dozen more bottles of wine."
 
 "Upon my word, the drum draws near," said d'Artagnan.
 
@@ -22424,7 +22455,7 @@ then, do we plague ourselves about money, when there is a diamond?"
 
 "But," said d'Artagnan, "it is the queen's diamond."
 
-"The stronger reason why it should be sold," replied Athos. The queen
+"The stronger reason why it should be sold," replied Athos. "The queen
 saving Monsieur de Buckingham, her lover; nothing more just. The queen
 saving us, her friends; nothing more moral. Let us sell the diamond.
 What says Monsieur the Abbe? I don't ask Porthos; his opinion has been
@@ -23017,12 +23048,14 @@ Aramis read the letter, and passed it to Athos.
 Athos cast a glance over the epistle, and to disperse all the suspicions
 that might have been created, read aloud:
 
-"My cousin, My sister and I are skillful in interpreting dreams, and
-even entertain great fear of them; but of yours it may be said, I hope,
-every dream is an illusion. Adieu! Take care of yourself, and act so
-that we may from time to time hear you spoken of.
+"My cousin,
 
-"Marie Michon"
+"My sister and I are skillful in interpreting dreams, and even entertain
+great fear of them; but of yours it may be said, I hope, every dream is
+an illusion. Adieu! Take care of yourself, and act so that we may from
+time to time hear you spoken of.
+
+"MARIE MICHON"
 
 "And what dream does she mean?" asked the dragoon, who had approached
 during the reading.
@@ -24249,26 +24282,28 @@ again from the commencement."
 
 "Willingly," said Aramis.
 
-"My dear Cousin, I think I shall make up my mind to set out for Bethune,
-where my sister has placed our little servant in the convent of the
-Carmelites; this poor child is quite resigned, as she knows she cannot
-live elsewhere without the salvation of her soul being in danger.
-Nevertheless, if the affairs of our family are arranged, as we hope they
-will be, I believe she will run the risk of being damned, and will
-return to those she regrets, particularly as she knows they are always
-thinking of her. Meanwhile, she is not very wretched; what she most
-desires is a letter from her intended. I know that such viands pass with
-difficulty through convent gratings; but after all, as I have given you
-proofs, my dear cousin, I am not unskilled in such affairs, and I will
-take charge of the commission. My sister thanks you for your good and
-eternal remembrance. She has experienced much anxiety; but she is now at
-length a little reassured, having sent her secretary away in order that
-nothing may happen unexpectedly.
+"My dear Cousin,
+
+"I think I shall make up my mind to set out for Bethune, where my sister
+has placed our little servant in the convent of the Carmelites; this
+poor child is quite resigned, as she knows she cannot live elsewhere
+without the salvation of her soul being in danger. Nevertheless, if the
+affairs of our family are arranged, as we hope they will be, I believe
+she will run the risk of being damned, and will return to those she
+regrets, particularly as she knows they are always thinking of her.
+Meanwhile, she is not very wretched; what she most desires is a letter
+from her intended. I know that such viands pass with difficulty through
+convent gratings; but after all, as I have given you proofs, my dear
+cousin, I am not unskilled in such affairs, and I will take charge of
+the commission. My sister thanks you for your good and eternal
+remembrance. She has experienced much anxiety; but she is now at length
+a little reassured, having sent her secretary away in order that nothing
+may happen unexpectedly.
 
 "Adieu, my dear cousin. Tell us news of yourself as often as you can;
 that is to say, as often as you can with safety. I embrace you.
 
-"Marie Michon."
+"MARIE MICHON"
 
 "Oh, what do I not owe you, Aramis?" said d'Artagnan. "Dear Constance! I
 have at length, then, intelligence of you. She lives; she is in safety
@@ -27079,6 +27114,7 @@ France, at the convent of the Carmelites at Bethune.
 
 59 WHAT TOOK PLACE AT PORTSMOUTH AUGUST 23, 1628
 
+
 Felton took leave of Milady as a brother about to go for a mere walk
 takes leave of his sister, kissing her hand.
 
@@ -27451,10 +27487,12 @@ from the moment I am not obliged to see an enemy in you.
 
 "Your affectionate
 
-"ANNE" Buckingham collected all his remaining strength to listen to the
-reading of the letter; then, when it was ended, as if he had met with a
-bitter disappointment, he asked, "Have you nothing else to say to me by
-the living voice, Laporte?"
+"ANNE"
+
+Buckingham collected all his remaining strength to listen to the reading
+of the letter; then, when it was ended, as if he had met with a bitter
+disappointment, he asked, "Have you nothing else to say to me by the
+living voice, Laporte?"
 
 "The queen charged me to tell you to watch over yourself, for she had
 advice that your assassination would be attempted."
@@ -27468,8 +27506,8 @@ her as the death of a stranger!"
 
 Laporte burst into tears.
 
-"Patrick," said the due, "bring me the casket in which the diamond studs
-were kept."
+"Patrick," said the duke, "bring me the casket in which the diamond
+studs were kept."
 
 Patrick brought the object desired, which Laporte recognized as having
 belonged to the queen.
@@ -27491,7 +27529,7 @@ blood spread over its blade.
 "And you will add to them this knife," said the duke, pressing the hand
 of Laporte. He had just strength enough to place the scent bag at the
 bottom of the silver casket, and to let the knife fall into it, making a
-sign to Laporte that he was no longer able to speak; than, in a last
+sign to Laporte that he was no longer able to speak; then, in a last
 convulsion, which this time he had not the power to combat, he slipped
 from the sofa to the floor.
 
@@ -27542,7 +27580,7 @@ All at once he started. His eyes became fixed upon a point of the sea,
 commanded by the terrace where he was. With the eagle glance of a sailor
 he had recognized there, where another would have seen only a gull
 hovering over the waves, the sail of a sloop which was directed toward
-the cost of France.
+the coast of France.
 
 He grew deadly pale, placed his hand upon his heart, which was breaking,
 and at once perceived all the treachery.
@@ -27635,22 +27673,27 @@ Bonacieux to leave the convent, and to retire either into Lorraine or
 Belgium. They had not long to wait for an answer. Eight or ten days
 afterward Aramis received the following letter:
 
-My Dear Cousin, Here is the authorization from my sister to withdraw our
-little servant from the convent of Bethune, the air of which you think
-is bad for her. My sister sends you this authorization with great
-pleasure, for she is very partial to the little girl, to whom she
-intends to be more serviceable hereafter.
+"My Dear Cousin,
 
-I salute you,
+"Here is the authorization from my sister to withdraw our little servant
+from the convent of Bethune, the air of which you think is bad for her.
+My sister sends you this authorization with great pleasure, for she is
+very partial to the little girl, to whom she intends to be more
+serviceable hereafter.
+
+"I salute you,
+
+"MARIE MICHON"
 
 To this letter was added an order, conceived in these terms:
 
-At the Louvre, August 10, 1628 The superior of the convent of Bethune
-will place in the hands of the person who shall present this note to her
-the novice who entered the convent upon my recommendation and under my
-patronage.
+"At the Louvre, August 10, 1628
 
-ANNE
+"The superior of the convent of Bethune will place in the hands of the
+person who shall present this note to her the novice who entered the
+convent upon my recommendation and under my patronage.
+
+"ANNE"
 
 It may be easily imagined how the relationship between Aramis and a
 seamstress who called the queen her sister amused the young men; but
@@ -27839,10 +27882,14 @@ conceived in the following terms:
 "To his Eminence Monseigneur the Cardinal Richelieu, in his camp before
 La Rochelle.
 
-"Monseigneur, Let your Eminence be reassured. His Grace the Duke of
-Buckingham WILL NOT SET OUT for France.
+"Monseigneur,
 
-"MILADY DE ---- "BOULOGNE, evening of the twenty-fifth.
+Let your Eminence be reassured. His Grace the Duke of Buckingham WILL
+NOT SET OUT for France.
+
+"MILADY DE ----
+
+"BOULOGNE, evening of the twenty-fifth.
 
 "P.S.--According to the desire of your Eminence, I report to the convent
 of the Carmelites at Bethune, where I will await your orders."
@@ -28949,7 +28996,7 @@ as possible, you ask her permission to share my repast."
 "Well, go down to her, then, to make your request. I feel my head a
 little confused; I will take a turn in the garden."
 
-"Go and where shall I find you?"
+"Go; and where shall I find you?"
 
 "Here, in an hour."
 
@@ -29275,8 +29322,8 @@ described.
 
 "And what do you believe?' His voice was stifled by sobs.
 
-"I believe everything," said Athos biting his lips till the blood sprang
-to avoid sighing.
+"I believe everything," said Athos, biting his lips till the blood
+sprang to avoid sighing.
 
 "d'Artagnan, d'Artagnan!" cried Mme. Bonacieux, "where art thou? Do not
 leave me! You see I am dying!"
@@ -29647,7 +29694,7 @@ horseback, and growing impatient.
 The four horsemen looked round them with astonishment, for they sought
 vainly in their minds to know who this other person could be.
 
-At this moment Planchet brought out Athos's house; the Musketeer leaped
+At this moment Planchet brought out Athos's horse; the Musketeer leaped
 lightly into the saddle.
 
 "Wait for me," cried he, "I will soon be back," and he set off at a
@@ -29690,7 +29737,7 @@ They passed in silence through the little village of Festubert, where
 the wounded servant was, and then skirted the wood of Richebourg. At
 Herlier, Planchet, who led the column, turned to the left.
 
-Several times Lord de Winter, Porthos, or Aramis, tried to talk with the
+Several times Lord de Winter, Porthos, or Aramis tried to talk with the
 man in the red cloak; but to every interrogation which they put to him
 he bowed, without response. The travelers then comprehended that there
 must be some reason why the unknown preserved such a silence, and ceased
@@ -29710,7 +29757,7 @@ D'Artagnan took off his hat, and could not be persuaded to make use of
 his cloak. He found pleasure in feeling the water trickle over his
 burning brow and over his body, agitated by feverish shudders.
 
-The moment the little troop passed Goskal and were approaching the Port,
+The moment the little troop passed Goskal and were approaching the Post,
 a man sheltered beneath a tree detached himself from the trunk with
 which he had been confounded in the darkness, and advanced into the
 middle of the road, putting his finger on his lips.
@@ -29719,7 +29766,7 @@ Athos recognized Grimaud.
 
 "What's the manner?" cried Athos. "Has she left Armentieres?"
 
-Grimaud made a sign in the affirmative. D'Artagnan groaned his teeth.
+Grimaud made a sign in the affirmative. D'Artagnan ground his teeth.
 
 "Silence, d'Artagnan!" said Athos. "I have charged myself with this
 affair. It is for me, then, to interrogate Grimaud."
@@ -30522,8 +30569,10 @@ every syllable:
 "It is by my order and for the good of the state that the bearer of this
 has done what he has done.
 
-"RICHELIEU" The cardinal, after having read these two lines, sank into a
-profound reverie; but he did not return the paper to d'Artagnan.
+"RICHELIEU"
+
+The cardinal, after having read these two lines, sank into a profound
+reverie; but he did not return the paper to d'Artagnan.
 
 "He is meditating by what sort of punishment he shall cause me to die,"
 said the Gascon to himself. "Well, my faith! he shall see how a
@@ -30769,21 +30818,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/1257
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg(tm) electronic works to protect the
-Project Gutenberg(tm) concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You may
-use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away - you may do practically _anything_ with public
-domain eBooks.  Redistribution is subject to the trademark license,
-especially commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg(tm)
+electronic works to protect the Project Gutenberg(tm) concept and
+trademark. Project Gutenberg is a registered trademark, and may not be
+used if you charge for the eBooks, unless you receive specific
+permission. If you do not charge anything for copies of this eBook,
+complying with the rules is very easy. You may use this eBook for nearly
+any purpose such as creation of derivative works, reports, performances
+and research.  They may be modified and printed and given away - you may
+do practically _anything_ in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 
 
@@ -30829,9 +30879,9 @@ works. See paragraph 1.E below.
 Foundation" or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg(tm) electronic works. Nearly all the individual works
 in the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg(tm) mission of promoting free access to electronic
@@ -30841,6 +30891,7 @@ associated with the work. You can easily comply with the terms of this
 agreement by keeping this work in the same format with its attached full
 Project Gutenberg(tm) License when you share it without charge with
 others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -30861,21 +30912,25 @@ on which the phrase "Project Gutenberg" appears, or with which the
 phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you'll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg(tm) electronic work is
-derived from the public domain (does not contain a notice indicating
-that it is posted with permission of the copyright holder), the work can
-be copied and distributed to anyone in the United States without paying
-any fees or charges. If you are redistributing or providing access to a
-work with the phrase "Project Gutenberg" associated with or appearing on
-the work, you must comply either with the requirements of paragraphs
-1.E.1 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg(tm) trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+derived from texts not protected by U.S. copyright law (does not contain
+a notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase "Project Gutenberg"
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg(tm) trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg(tm) electronic work is
 posted with the permission of the copyright holder, your use and
@@ -30949,21 +31004,22 @@ provided that
 *1.E.9.* If you wish to charge a fee or distribute a Project
 Gutenberg(tm) electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg(tm) trademark. Contact the
-Foundation as set forth in Section 3. below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg(tm)
+trademark. Contact the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg(tm) collection.
-Despite these efforts, Project Gutenberg(tm) electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg(tm) collection. Despite these efforts, Project Gutenberg(tm)
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -30994,7 +31050,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -31049,13 +31105,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation's web site and official page
-at http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -31110,9 +31166,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg(tm) eBooks with only a loose network of volunteer support.
 
 Project Gutenberg(tm) eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook's eBook
 number, often in several formats including plain vanilla ASCII,
